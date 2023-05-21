@@ -1,0 +1,66 @@
+cm - inch:
+
+1 cm ≈ 0.39 in
+mm - inch:
+
+1 mm ≈ 0.04 in
+m - yard:
+
+1 m ≈ 1.09 yd
+km - mile:
+
+1 km ≈ 0.62 mi
+mm^2 - sq inch:
+
+1 mm^2 ≈ 0.0016 sq in
+cm^2 - sq inch:
+
+1 cm^2 ≈ 0.16 sq in
+m^2 - sq yard:
+
+1 m^2 ≈ 1.196 sq yd
+km^2 - sq mile:
+
+1 km^2 ≈ 0.39 sq mi
+ml - fluid ounce:
+
+1 ml ≈ 0.03 fl oz
+l - quart:
+
+1 l ≈ 1.06 qt
+ml - pint:
+
+1 ml ≈ 0.0021 pt
+l - gallon:
+
+1 l ≈ 0.22 gal
+g - ounce:
+
+1 g ≈ 0.04 oz
+kg - pound:
+
+1 kg ≈ 2.20 lb
+kg - stone:
+
+1 kg ≈ 0.16 st
+kg - ton:
+
+1 kg ≈ 0.001 ton
+°C - °F:
+
+Conversion formula: °F = (°C * 9/5) + 32
+m/s - mph:
+
+Conversion formula: mph ≈ m/s * 2.24
+Pa - psi:
+
+Conversion formula: psi ≈ Pa * 0.000145
+J - ft-lbf:
+
+Conversion formula: ft-lbf ≈ J * 0.7376
+N - lbf:
+
+Conversion formula: lbf ≈ N * 0.2248
+W - hp:
+
+Conversion formula: hp ≈ W * 0.00134

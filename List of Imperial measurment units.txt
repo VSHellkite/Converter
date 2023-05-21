@@ -1,0 +1,76 @@
+List of Imperical measurment units
+
+Length:
+
+in. - inch
+ft. - foot
+yd. - yard
+mi. - mile
+furlong - furlong
+league - league
+thou - thousandth of an inch
+mil - thousandth of an inch (alternative term)
+Area:
+
+sq in. - square inch
+sq ft. - square foot
+sq yd. - square yard
+acre - acre
+rood - rood
+Volume:
+
+fl oz. - fluid ounce
+pt. - pint
+qt. - quart
+gal. - gallon
+bbl - barrel (oil)
+hogshead - hogshead (alcohol)
+Weight:
+
+oz. - ounce
+lb. - pound
+st. - stone
+ton - ton
+hundredweight - hundredweight
+Temperature:
+
+°F - Fahrenheit
+°R - Rankine (absolute temperature scale)
+Speed:
+
+mph - miles per hour
+knot - nautical mile per hour
+Pressure:
+
+psi - pounds per square inch
+ksi - thousand pounds per square inch (common in engineering)
+Energy:
+
+ft-lbf - foot-pound force
+Btu - British thermal unit
+Force:
+
+lbf - pound force
+Power:
+
+ft-lbf/s - foot-pound force per second
+hp - horsepower
+Torque:
+
+ft-lbf - foot-pound force
+Fluid Volume:
+
+bbl - barrel
+hogshead - hogshead
+tun - large cask for wine or beer
+Fuel Consumption:
+
+mpg - miles per gallon
+Length/Distance at Sea:
+
+cable - cable
+nautical mile - nautical mile
+Area of Land:
+
+acre - acre
+section - section (640 acres)
