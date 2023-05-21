@@ -1,0 +1,131 @@
+/* font-family: 'Montserrat', sans-serif; */
+
+/* Fonts */
+
+h1,
+button {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 140%;
+    color: #090788;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    color: #090788;
+}
+
+label,
+input {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    color: #000000;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    color: #000000;
+}
+
+/* main-sections */
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    align-items: stretch;
+    padding: 0px;
+    gap: 21px;
+}
+
+.left-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 35px 24px;
+    background: rgba(160, 193, 251, 0.4);
+    flex: 1;
+    height: 100%;
+    align-self: stretch;
+}
+
+.measuring-area {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+    flex: 4;
+}
+
+/* smaller sections */
+
+.measuring-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 45px;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    width: 100%;
+    gap: 20px;
+}
+
+.system {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 40px;
+}
+
+/* Elements */
+
+input {
+    width: 200px;
+    height: 50px;
+    border: none;
+    padding: 0, 23px;
+}
+
+textarea,
+.output-frame {
+    padding: 21px;
+    width: auto;
+    height: auto;
+    border: 3px solid rgba(9, 7, 136, 0.25);
+}
+
+button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 1px;
+    gap: 10px;
+    width: 100%;
+    height: 66px;
+    background: #FFFFFF;
+    border: 3px solid #090788;
+}
