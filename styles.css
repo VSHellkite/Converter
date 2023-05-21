@@ -110,7 +110,7 @@ input {
     padding: 0, 23px;
 }
 
-textarea,
+.exterior,
 .output-frame {
     padding: 21px;
     width: auto;
