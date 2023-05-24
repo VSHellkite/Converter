@@ -2,8 +2,7 @@
 
 /* Fonts */
 
-h1,
-button {
+h1 {
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 600;
@@ -21,8 +20,7 @@ h2 {
     color: #090788;
 }
 
-label,
-input {
+label {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -31,8 +29,16 @@ input {
     color: #000000;
 }
 
-p,
-textarea {
+h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    color: #090788;
+}
+
+p,input {
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -59,8 +65,7 @@ body {
     padding: 35px 24px;
     background: rgba(160, 193, 251, 0.4);
     flex: 1;
-    height: 100%;
-    align-self: stretch;
+    height: 90vh;
 }
 
 .measuring-area {
@@ -80,15 +85,23 @@ body {
     flex-direction: column;
     align-items: flex-start;
     padding: 0px;
-    gap: 45px;
+    gap: 30px;
+}
+
+.settings {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
 }
 
 .input-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: stretch;
     align-items: center;
-    padding: 0px;
+    padding: 0px; 
     width: 100%;
     gap: 20px;
 }
@@ -103,15 +116,7 @@ body {
 
 /* Elements */
 
-input {
-    width: 200px;
-    height: 50px;
-    border: none;
-    padding: 0, 23px;
-}
-
-textarea,
-.output-frame {
+.exterior {
     padding: 21px;
     width: auto;
     height: auto;
@@ -123,10 +128,22 @@ button {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    align-self: center;
     padding: 16px 1px;
     gap: 10px;
-    width: 100%;
+    width: 287px;
     height: 66px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 140%;
+    color: #090788;
     background: #FFFFFF;
     border: 3px solid #090788;
+}
+
+button:hover {
+    color: #FFFFFF;
+    background-color: #090788;
 }
