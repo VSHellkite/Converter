@@ -1,0 +1,151 @@
+/* font-family: 'Montserrat', sans-serif; */
+
+/* Fonts */
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 140%;
+    color: #A0C1FB;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    color: #A0C1FB;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    color: white;
+}
+
+label {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    color: white;
+}
+
+p,input {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+/* main-sections */
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    align-items: stretch;
+    padding: 0px;
+    gap: 21px;
+    background-color: #161529;
+}
+
+.left-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 35px 24px;
+    background: rgba(36, 72, 133, 0.6);
+    flex: 1;
+    height: 90vh;
+}
+
+.measuring-area {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+    flex: 4;
+}
+
+/* smaller sections */
+
+.measuring-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 30px;
+}
+
+.settings {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    align-items: center;
+    padding: 0px; 
+    width: 100%;
+    gap: 20px;
+}
+
+.system {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 40px;
+}
+
+/* Elements */
+
+.exterior {
+    padding: 21px;
+    width: auto;
+    height: auto;
+    background: none;
+    border: 3px solid rgba(160, 193, 251, 0.25);
+}
+
+button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    padding: 16px 1px;
+    gap: 10px;
+    width: 287px;
+    height: 66px;
+    background: none;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 140%;
+    color: #A0C1FB;
+    border: 3px solid rgba(160, 193, 251);
+}
+
+button:hover {
+    background-color: rgba(160, 193, 251);
+    color: #161529;
+}
