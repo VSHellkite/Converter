@@ -115,6 +115,14 @@ body {
     gap: 40px;
 }
 
+.settings-row {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    align-items: center;
+    gap: 20px;
+}
+
 /* Elements */
 
 .exterior {
