@@ -1,0 +1,64 @@
+in. - 2.54 - cm.
+inch - 2.54 - centimeter
+ft. - 0.3048 - m.
+foot - 0.3048 - meter
+yd. - 0.9144 - m.
+yard - 0.9144 - meter
+mi. - 1.6093 - km.
+mile - 1.6093 - kilometer
+furlong - 201.168 - meter
+league - 4.828 - km.
+thou. - 0.0254 - mm.
+mil. - 0.0254 - millimeter
+sq in. - 6.452 - sq. cm.
+square inch - 6.452 - square centimeter
+sq ft. - 0.0929 - sq m.
+square foot - 0.0929 - square meter
+sq yd. - 0.8361 - sq m.
+square yard - 0.8361 - square meter
+rood - 1011.714 - sq m.
+fl oz. - 29.5735 - ml.
+fluid ounce - 29.5735 - milliliter
+pt. - 473.176 - ml.
+pint - 473.176 - milliliter
+qt. - 0.9464 - L.
+quart - 0.9464 - liter
+gal. - 3.7854 - L.
+gallon - 3.7854 - liter
+bbl - 158.9873 - L.
+barrel - 158.9873 - liter
+hogshead - 238.4809 - L.
+oz. - 28.3495 - g.
+ounce - 28.3495 - gram
+lb. - 0.4536 - kg.
+pound - 0.4536 - kilogram
+st. - 6.3503 - kg.
+stone - 6.3503 - kilogram
+ton - 907.1847 - kg.
+hundredweight - 50.8023 - kg
+°F - 1 - °C
+Fahrenheit - 1 - Celsius
+°R - 1 - °K
+Rankine - 1 - Kelvin
+mph - 1.6093 - km/h.
+miles per hour - 1.6093 - km/h.
+knot - 1.852 - km/h.
+nautical mile per hour - 1.852 - km/h.
+psi - 6.8948 - kPa.
+pounds per square inch - 6.8948 - kPa.
+ksi - 6.8948 - MPa.
+thousand pounds per square inch - 6.8948 - MPa.
+lbf - 4.4482 - N.
+pound force - 4.4482 - Newton
+ft-lbf/s - 1.3558 - W.
+foot-pound force per second - 1.3558 - Watt.
+hp - 745.6999 - W.
+horsepower - 745.6999 - Watt
+ft-lbf - 1.3558 - J.
+foot-pound force - 1.3558 - Joule
+mpg - 0.4251 - km/l.
+miles per gallon - 0.4251 - km/l.
+cable - 185.2 - m.
+nautical mile - 185.2 - meter
+acre - 4046.8564 - sq m.
+section - 2.5899 - sq km.

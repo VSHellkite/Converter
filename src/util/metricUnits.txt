@@ -1,0 +1,52 @@
+mm - 0,0393701 - in.
+millimeter - 0,0393701 - inch
+cm - 0,393701 - in.
+centimeter - 0,393701 - inch
+m - 3,28084 - ft.
+meter - 3,28084 - feet
+km - 0.621371 - mi.
+kilometer - 0.621371 - mile
+sq mm - 0.00155 - sq in.
+square millimeter - 0.00155 - square inch
+sq cm - 0.155 - sq in.
+square centimeter - 0.155 - square inch
+sq m - 10.7639 - sq ft.
+square meter - 10.7639 - square foot
+sq km - 0.386102 - sq mi.
+square kilometer - 0.386102 - square mile
+hectare - 2.47105 - acres
+ml - 0.033814 - fl oz.
+milliliter - 0.033814 - fluid ounce
+cl - 0.33814 - fl oz.
+centiliter - 0.33814 - fluid ounce
+dl - 3.3814 - fl oz.
+deciliter - 3.3814 - fluid ounce
+l - 33.814 - fl oz.
+liter - 33.814 - fluid ounce
+m³ - 35.3147 - cubic ft.
+cubic meter - 35.3147 - cubic foot
+mg - 0.0154324 - grain
+milligram - 0.0154324 - grain
+g - 0.03527396 - oz.
+gram - 0.03527396 - ounce
+kg - 2.20462 - lb.
+kilogram - 2.20462 - pound
+tonne - 1.10231 - ton
+metric ton - 1.10231 - ton
+°C - 1 - °F
+Celsius - 1 - Fahrenheit 
+K - 1 - °R
+Kelvin -  1 - Rankine
+m/s - 2.23694 - mph
+meters per second - 2.23694 - miles per hour
+km/h - 0.621371 - mph
+kilometers per hour - 0.621371 - miles per hour
+Pa - 0.000145038 - psi
+Pascal - 0.000145038 - pounds per square inch
+kPa - 0.145038 - psi
+kilopascal - 0.145038 - pounds per square inch
+bar - 14.5038 - psi
+km/l - kilometers per liter
+l/100km - liters per 100 kilometers
+nautical mile - 1.15078 - statute mile
+hectare - 2.47105 - acres

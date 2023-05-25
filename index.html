@@ -1,40 +1,43 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="styles.css">
-    </head>
-    <body>
-            <section class="left-column">
-                <div class="measuring-form">
-                    <h1>Measuring system</h1>
-                    <div class="input-container">
-                        <label>from</label>
-                        <input>
-                    </div>
-                    <div class="input-container">
-                        <label>to</label>
-                        <input>
-                    </div>
-                    <button>Convert</button>
-                </div>
-                <div class="settings">
-                    <h2>Settings</h2>
-                    <h2>Night mode</h2>
-                    <h2>Contact us</h2>
-                </div>
-            </section>
-            <section class="measuring-area">
-                <div class="system system1">
-                    <h1>Imperial system</h1>
-                    <input class="exterior" type ="text" id="input"><br>
-                </div>
-                <div class="system system2">
-                    <h1>Metric system</h1>
-                    <output class="exterior" type ="text" id =output></output>
-                </div>
-            </section>
-    </body>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<section class="left-column">
+    <div class="measuring-form">
+        <h1>Measuring system</h1>
+        <div class="input-container">
+            <label>from</label>
+            <h3 id="fromUnit">Imperial</h3>
+        </div>
+        <img id="swapButton" src="util/images/arrows.png" width="20px" height="18px" style="padding-left: 20%; cursor: pointer;">
+        <div class="input-container">
+            <label>to</label>
+            <h3 id="toUnit">Metric</h3>
+        </div>
+    </div>
+    <div class="settings">
+        <h2>Settings</h2>
+        <h2>Night mode</h2>
+        <h2>Contact us</h2>
+    </div>
+</section>
+<section class="measuring-area">
+    <div class="system system1">
+        <h1>Imperial system</h1>
+        <input class="exterior" type="text" id="input" placeholder="Place your text here">
+    </div>
+    <button id="mainButton">Convert</button>
+    <div class="system system2">
+        <h1>Metric system</h1>
+        <output class="exterior" type="text" id="output"></output>
+    </div>
+</section>
+
+<script src="process.js"></script>
+</body>
 </html>
