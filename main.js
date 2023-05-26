@@ -1,5 +1,4 @@
 const { app, BrowserWindow } = require('electron');
-const path = require('index.html');
 
 
 function createWindow() {
@@ -11,12 +10,7 @@ function createWindow() {
       }
     });
   
-    // Load the HTML file
-    win.loadURL(url.format({
-      pathname: path.join(__dirname, 'index.html'),
-      protocol: 'file:',
-      slashes: true
-    }));
+    win.loadFile('index.html');
   }
 
   app.on('ready', createWindow);
